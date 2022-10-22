@@ -18,7 +18,10 @@ This project is recent and does not yet include all the initial ideas. Here is a
   - [ ] Command to see the leaderboard
 - [ ] Christmas
 
-*Don't hesitate to contribute to the project by suggesting your own ideas in [Discussions](https://github.com/Apokalypt/SeasonalBot/discussions)!*
+*Don't hesitate to contribute to the project by suggesting your own ideas in [Discussions][discussions]!*
 
 ## :gear: Support
-If you have any questions regarding the bot, you can create a post in [Discussions](https://github.com/Apokalypt/SeasonalBot/discussions).
+If you have any questions regarding the bot, you can create a post in [Discussions][discussions].
+
+[contributing]: https://github.com/Apokalypt/SeasonalBot/blob/main/.github/CONTRIBUTING.md
+[discussions]: https://github.com/Apokalypt/SeasonalBot/discussions
